@@ -1,0 +1,4 @@
+child,child_state,prob
+Temperature,cold,0.2572283150548355
+Temperature,mild,0.5054835493519442
+Temperature,hot,0.23728813559322035

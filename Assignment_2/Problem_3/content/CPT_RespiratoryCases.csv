@@ -1,0 +1,10 @@
+AQI,child,child_state,prob
+good,RespiratoryCases,low,0.703125
+good,RespiratoryCases,medium,0.203125
+good,RespiratoryCases,high,0.09375
+moderate,RespiratoryCases,low,0.2867132867132867
+moderate,RespiratoryCases,medium,0.46153846153846156
+moderate,RespiratoryCases,high,0.2517482517482518
+poor,RespiratoryCases,low,0.06483790523690773
+poor,RespiratoryCases,medium,0.2543640897755611
+poor,RespiratoryCases,high,0.6807980049875312

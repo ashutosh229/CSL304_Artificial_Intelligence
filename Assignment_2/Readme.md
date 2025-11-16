@@ -8,11 +8,10 @@ This repository contains solutions for Assignment 2 of the Artificial Intelligen
 
 ### Testing Instructions
 ```bash
-cd Problem_1
-python entry.py
+python -m Problem_1.entry
 ```
 
-This will execute the solution for Problem 1. Ensure you are in the correct directory containing the `entry.py` file before running the command.
+This will execute the solution for Problem 1. Ensure you are in the root directory before running the command.
 
 ---
 

@@ -1,0 +1,37 @@
+8 puzzle  
+robotic assembly
+n queens   
+
+dfs  
+bfs  
+ucs   
+bs  
+ids  
+bidirectional search  
+
+best first search (if visited then continue)  
+greedy best first search (if visited then also do ahead) 
+a star search  
+admissiable and consistent heuristic functions   
+
+depth first branch and bound   
+minimization problems  
+iterative deepening A*  
+non optimal variations   
+admissiable heuristic  
+dominance   
+relaxed problems  
+
+hamiltonian problem  
+rest others  
+
+minmax
+alpha beta  
+cutoff search  
+
+evaluation function  
+samuels checker  
+
+
+
+

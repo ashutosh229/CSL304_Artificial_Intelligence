@@ -1,3 +1,7 @@
 pip install ipykernel
-pip install pgmpy networkx matplotlib numpy pandas, torch, torch-geometric, prolog
-python -m ipykernel install --user --name=ai_env --display-name "Python (ai_env)"
+pip install pgmpy networkx matplotlib numpy pandas, torch, torch-geometric
+python -m ipykernel install --user --name=ai_env --display-name "Python (ai_env)"  
+
+C:\Users\akuma/.ssh/id_ed25519
+
+username: b360h5-m14\user
